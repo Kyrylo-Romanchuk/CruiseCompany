@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    border: 0;
+    color: black;
+    background: #e3e3e3;
+}
+div {
+    display: block;
+}
+/* section {
+    display: block;
+} */
+
+.logoMain{
+    margin: -10px;
+}
+.cart{
+    height: 25px;
+    width: 25px;
+    margin-right: -10px;
+    margin-top: -10px;
+ }
+.label{
+    color: #000000;
+}
+.price {
+    font-size: 23px;
+    color: #CC6633;
+}
+.ImgCruize{
+width: 100px;
+height: 20px;
+}
+
+.crListingPerDayLabel{
+    font-size: 11px;
+}
+
+#crCruiseListings {
+    margin-left: 10%;
+    margin-top: 10px;
+    max-width: 750px;
+    
+  
+}
+.crCruiseListing {
+    margin-bottom: 21px;
+    padding: 10px;
+    border: solid 1px #000066;
+    min-height: 153px;
+    background-color: #f3f3f3;
+    height: 280px;
+   
+}
+.vlogo{
+    margin-left: -17px;
+}
+.stars {
+   margin-left: 60px;     
+}
+h3.crLengthDestination {
+    margin-bottom: 2px;
+    font-size: 1.17em;
+}
+.crListBox {
+   overflow: hidden;
+    height: 235px;
+}
+.crShipImage {
+    float: left;
+    width: 225px;
+    /* height: auto; */
+    overflow: hidden;
+    margin: 0px 0;
+    height: 220px;
+   
+}
+.crImgCruize{
+    float: left;
+    height: 120px;
+   
+  
+}
+div.crCruiseBox {
+    margin-left: 240px;
+}
+/* div.crCompareLink {
+    float: right;
+}
+div.crCompareLink span {
+    margin-right: 4px;
+    font-size: .9em;
+    text-decoration: underline;
+    cursor: pointer;
+} */
+div.crVendorCruise {
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+/* .crSailingDates {
+    margin-top: 4px;
+} */
+div.crPrices {
+    margin: 5px 0 10px 0;
+    padding: 3px 0;
+    border: solid 1px gray;
+    background-color: #fefeee;
+}
+
+/* .crListingIcons {
+    display: none;
+    overflow: hidden;   
+} */
+
+button {
+    color: white;
+    background-color: #CC6633;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* padding: 2px 8px; */
+    border: solid 1px white;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+
+/* a.crListingViewDetails, .crCruiseListing .zzSelectButton {
+    float: right;
+    font-weight: bold;
+} */
+
+
